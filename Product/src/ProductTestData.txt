@@ -1,0 +1,3 @@
+000001, Milk, Whole Milk, $2.00
+000002, Eggs, 1 Dozen White Eggs, $2.25
+000003, Butter, Unsalted Butter, $1.50
